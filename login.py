@@ -6,11 +6,11 @@ class Anilam(object):
       print('----喝------')
   def say(self):
       print('-----看-----')
+      print('----张三增加的-----')
 def main():
   dog = Anilam('黄狗', '11')
   dog.drink()
   dog.say()
 
 if __main__ == '__name__':
-    main()
-    
+    main() 
