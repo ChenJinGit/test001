@@ -1,7 +1,8 @@
 class Anilam(object):
-  def __init__(self, name, age):
+  def __init__(self, name, age, num):
       self.name = name
       self.age = age
+      self.num = num
   def drink(self):
       print('----喝------')
   def say(self):
