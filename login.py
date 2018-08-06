@@ -11,7 +11,7 @@ class Anilam(object):
       print('----陈金增加的-----')
       print()
 def main():
-  dog = Anilam('黄狗', '11', 100)
+  dog = Anilam('黑狗', '11', 100)
   dog.drink()
   dog.say()
 
