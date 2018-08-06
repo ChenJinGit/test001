@@ -7,6 +7,7 @@ class Anilam(object):
   def say(self):
       print('-----看-----')
       print('----张三增加的-----')
+      print('----陈金增加的-----')
       print()
 def main():
   dog = Anilam('黄狗', '11')
